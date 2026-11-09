@@ -65,7 +65,6 @@
         85673063,
         102191569,
         85632359,
-        1108952563,
         1108564813
     ],
     "wof:breaches":[],
@@ -84,7 +83,6 @@
             "continent_id":102191569,
             "country_id":85632359,
             "county_id":1108564813,
-            "locality_id":1108952563,
             "neighbourhood_id":85902735,
             "region_id":85673063
         }
@@ -95,7 +93,7 @@
     ],
     "wof:lastmodified":1582346002,
     "wof:name":"Toul Tapeung",
-    "wof:parent_id":1108952563,
+    "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-kh",
     "wof:superseded_by":[],
